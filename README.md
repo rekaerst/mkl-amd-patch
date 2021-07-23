@@ -14,7 +14,7 @@ mkl_serv_intel_cpu_true
 
 Usage: 
 ```bash
-sudo python patch.py \<path to libmkl_core.so\>
+sudo python patch.py <path to libmkl_core.so>
 ```
 
 ---
